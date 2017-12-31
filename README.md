@@ -11,7 +11,7 @@ The project was developed in Python using a [Jupyter Notebook](http://jupyter.or
 
 The repository is structured as follows:
 
-* README.md
+* `README.md`
 * `titanic.html`: an .html rendered file with the results of the Notebook
 * `titanic.ipynb`: the Jupyter Notebook where all the code is deployed
 * `/data`: folder containing all the data files
