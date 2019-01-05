@@ -9,7 +9,7 @@ This project belongs to Udacity's [Data Analyst Nanodegree](https://eu.udacity.c
 * [Machine learning](https://github.com/MarcCollado/enron)
 * [Data visualization](https://public.tableau.com/profile/marccollado#!/vizhome/TitanicFinal_6/Titanic)
 
-ℹ️ This project was developed in 2017 during the Nanodegree and it is no longer maintained. If you like to see what I'm currently working on, please, visit my [now page](https://www.collado.io/now).
+ℹ️ This project was developed in 2017 during the Nanodegree and it is no longer maintained. If you'd like to see what I'm currently working on, please, visit my [now page](https://www.collado.io/now).
 
 
 ## About
