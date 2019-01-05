@@ -1,4 +1,4 @@
-# Exploring The Titanic 🚢
+# 🚢 Exploring The Titanic
 Data Analysis Project — Udacity Data Analyst Nanodegree
 
 This project belongs to Udacity's [Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002). Below you'll find the rest of the Nanodegree projects and I also wrote a [short post](https://www.collado.io/blog/2018/udacity-dand) in my blog about the course experience.
